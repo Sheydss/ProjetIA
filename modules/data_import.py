@@ -2,9 +2,9 @@ import pandas as pd
 import os
 
 # other configurations 
-path = 'C:/IA'
-path_csv = path + '/data/csv'
-path_zip = path + '/data/zip'
+path = 'C:/dev/IA'
+path_csv = path + '/data'
+path_zip = path + '/data'
 
 # load data
 def loadData() :
